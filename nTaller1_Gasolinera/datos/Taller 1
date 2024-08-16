@@ -1,0 +1,13 @@
+tipo:Pochito:14200:1000.0
+tipo:ACPM:8000:500.0
+tipo:Extra:23000:800.0
+tipo:Corriente:15:10.0
+surtidor:Nana:Pochito:0.0:ACPM:0.0:Extra:0.0:Corriente:0.0
+surtidor:Nana:Pochito:0.0:ACPM:0.0:Extra:0.0:Corriente:0.0
+surtidor:Pocho:Pochito:0.0:ACPM:0.0:Extra:0.0:Corriente:0.0
+surtidor:Juanca:Pochito:0.0:ACPM:0.0:Extra:0.0:Corriente:0.0
+empleado:Pocho:0
+empleado:Nana:0
+empleado:Santiago:0
+empleado:Juanca:0
+empleado:Sofia:0
